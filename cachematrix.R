@@ -44,7 +44,6 @@ makeCacheMatrix <- function(x = matrix()) {
 ##		returns:	 matrix object containing the inverse of the matrix
 ## 		
 ##		usage example:	 
-## 			define matrix: 	
 ##				m = makeCacheMatrix( rbind(c(1, 2, 3), c(0,4,5), c(1,0,6)) )
 ##				cacheSolve(m)
 
